@@ -8,4 +8,4 @@ new_languages = {}
     end
   end
   new_languages
-end	 
+end
